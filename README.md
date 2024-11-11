@@ -11,5 +11,5 @@ USAGE : python websitemonitor.py
 - Used 3rd party HTML.py module for html page generation, for look and feel.
 - Used requests module instead of urllib/httplib modules as requests module is thread safe.
 
-Contact: chashokbabu@gmail.com
+Contact: <Chiruvella Ashok Babu> chashokbabu@gmail.com
 
